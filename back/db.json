@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "olivider@mail.com",
+      "password": "$2a$10$1oEs.cKtOPV1HjcvlRtbPu81kNYMVIOM1WGu4OJ6k/Nj199DDL8e6",
+      "id": 1
+    },
+    {
+      "email": "hoal@gmail.com",
+      "password": "$2a$10$eJcpuRYbpmi53Rg9IbYQx.EihEZp5LrEHlu5x/2.ET8K81PbOjxRi",
+      "id": 2
+    },
+    {
+      "email": "pc@gmail.com",
+      "password": "$2a$10$DUXWIscbs7bAu1vNRYMh/OM0fGs2dO/jwB7Mt6oQ865ipwwDu8WhK",
+      "id": 3
+    }
+  ]
+}
