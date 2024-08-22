@@ -14,6 +14,11 @@
       "email": "pc@gmail.com",
       "password": "$2a$10$DUXWIscbs7bAu1vNRYMh/OM0fGs2dO/jwB7Mt6oQ865ipwwDu8WhK",
       "id": 3
+    },
+    {
+      "email": "bobby@gmail.com",
+      "password": "$2a$10$oBNsdP2QmrZ6sPlOA0VNwuru1840cZvgK/HxrU9olFeePrvKx8AcW",
+      "id": 4
     }
   ]
 }

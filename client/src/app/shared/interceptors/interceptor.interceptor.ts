@@ -14,11 +14,6 @@ export const httpInterceptor: HttpInterceptorFn = (req, next) => {
       }
       return event;
     })
-//   ,catchError(error=>{
-//     if (error instanceof HttpErrorResponse){
-//     console.log('error',error.message)
-//   }
-//   return of (error);
-// }
+
 );
 };

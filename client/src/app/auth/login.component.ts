@@ -48,13 +48,6 @@ export class LoginComponent implements OnInit {
     }
 
     
-    /* VERSION subscripción al observable */
-    // if(this.loginForm.valid){
-      // this.loginService.login(user).subscribe(r=>{
-      //   // localStorage.setItem('token', r.accessToken)
-      //   this.route.navigate(['/home'])
-      // });
-    // }
   }
 
 }
